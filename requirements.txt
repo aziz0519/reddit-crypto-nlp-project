@@ -1,0 +1,7 @@
+pprint
+pandas
+numpy 
+matplotlib
+seaborn
+nltk
+gensim
